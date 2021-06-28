@@ -1,0 +1,18 @@
+{
+  "Simple": [
+    {
+      "name": "TimerHUD",
+      "description": "An in-game timer!",
+      "addon_version": "1.0.1",
+      "api_version": 1
+    }
+  ],
+  "Hypixel": [
+    {
+      "name": "Height Limit Mod",
+      "description": "Displays the height limit for Hypixel Bedwars games and how close you are getting to it.",
+      "addon_version": "1.2",
+      "api_version": 1
+    }
+  ]
+}
